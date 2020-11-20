@@ -1,0 +1,36 @@
+html{
+	position: relative;
+}
+body{
+	background-color: rgb(85, 170, 219);
+	margin-bottom: 100px;
+}
+
+.form-container{
+	background-color: aqua;
+	margin-top: 100px;
+	padding-top: 70px;
+	padding-bottom: 100px;
+	box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	margin-bottom: 313px;
+	border-radius: 20px;
+
+}
+
+hr{
+	width: 80%;
+	border: 5px solid;
+	border-radius: 10px;
+	margin-bottom: 50px;
+}
+
+
+footer{
+position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color:  rgb(51, 140, 192);
+  color: white;
+}
